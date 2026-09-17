@@ -1,0 +1,16 @@
+{
+  "name": "gabaritei-ai",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run start:dev --workspace @gabaritei/api",
+    "dev:web": "npm run dev --workspace @gabaritei/web"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
