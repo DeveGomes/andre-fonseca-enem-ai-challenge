@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Gabaritei AI">
+  <rect x="0" y="0" width="32" height="32" rx="7" fill="#16364D"/>
+  <path d="M16 5.5 L25.5 9.5 L16 13.5 L6.5 9.5 Z" fill="#E9EEF2"/>
+  <path d="M9 19.5 L13.5 24 L23.5 13.8" stroke="#2FD08C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
