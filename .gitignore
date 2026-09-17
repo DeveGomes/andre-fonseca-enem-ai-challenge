@@ -1,0 +1,25 @@
+# dependências
+node_modules/
+
+# variáveis de ambiente — NUNCA versionar
+.env
+.env.local
+.env.*.local
+
+# build
+dist/
+build/
+*.tsbuildinfo
+
+# logs
+*.log
+npm-debug.log*
+
+# sistema / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# testes
+coverage/
